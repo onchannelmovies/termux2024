@@ -2,52 +2,52 @@
 	"pools":[
 	{
 		"name": "ViporRO",
-        	"url": "stratum+tcp://ro.vipor.net:5040",
+        	"url": "stratum+tcp://ro.vipor.net:5045",
 		"timeout": 250
 	},
 		{
 		"name": "ViporRO",
-        	"url": "stratum+tcp://ro.vipor.net:5040",
+        	"url": "stratum+tcp://ro.vipor.net:5045",
 		"timeout": 250
 	},
 		{
 		"name": "ViporRO",
-        	"url": "stratum+tcp://ro.vipor.net:5040",
+        	"url": "stratum+tcp://ro.vipor.net:5045",
 		"timeout": 250
 	},
 		{
 		"name": "ViporRO",
-        	"url": "stratum+tcp://ro.vipor.net:5040",
+        	"url": "stratum+tcp://ro.vipor.net:5045",
 		"timeout": 250
 	},
 		{
 		"name": "ViporRO",
-        	"url": "stratum+tcp://de.vipor.net:5040",
+        	"url": "stratum+tcp://ro.vipor.net:5045",
 		"timeout": 250
 	},
 		{
 		"name": "ViporRO",
-        	"url": "stratum+tcp://fr.vipor.net:5040",
+        	"url": "stratum+tcp://ro.vipor.net:5045",
 		"timeout": 250
 	},
 	{
 		"name": "ViporRO",
-        	"url": "stratum+tcp://ro.vipor.net:5040",
+        	"url": "stratum+tcp://ro.vipor.net:5045",
 		"timeout": 250
 	},
 	{
 		"name": "ViporRO",
-        	"url": "stratum+tcp://ro.vipor.net:5040",
+        	"url": "stratum+tcp://ro.vipor.net:5045",
 		"timeout": 250
 	},
 	{
 		"name": "ViporRO",
-        	"url": "stratum+tcp://ro.vipor.net:5040",
+        	"url": "stratum+tcp://ro.vipor.net:5045",
 		"timeout": 250
 	},
 	{
 		"name": "ViporRO",
-        	"url": "stratum+tcp://ro.vipor.net:5040",
+        	"url": "stratum+tcp://ro.vipor.net:5045",
 		"timeout": 250
 	},
 	{
