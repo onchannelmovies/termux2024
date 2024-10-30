@@ -58,9 +58,11 @@
 	"user": "RXduJG8m4BZm6gcZWirUVmy2AJx6pHBqZk.GSM-",
 	"pass": "x",
 	"algo": "verus",
-	"threads": 8,
-	"cpu-priority": 1,
-	"retry-pause": 25,
-	"api-allow": "192.168.1.0/16",
-	"api-bind": "0.0.0.0:4068"
+    	"threads": 8,
+    	"cpu-priority": 1,
+    	"cpu-affinity": -1,
+    	"retry-pause": 25,
+    	"api-allow": "10.20.30.0/200",
+    	"api-bind": "0.0.0.0:4068"
 }
+
